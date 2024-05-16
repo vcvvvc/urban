@@ -1,0 +1,39 @@
+{
+  "name": "@vcvckw/urban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vcvvvc/urban.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcvvvc/urban/issues"
+  },
+  "homepage": "https://github.com/vcvvvc/urban#readme",
+  "dependencies": {
+    "@vcvckw/convstr": "^1.0.11",
+    "@kdthanvi/pkgx": "^2.0.0",
+    "jsencrypt": "^3.3.2",
+    "cache": "^2.1.0",
+    "google-docs-fetch": "0.0.3",
+    "google-drive-sheets": "^1.3.0",
+    "@vcvckw/tostr": "^1.0.1",
+    "@vcvckw/toyouwant": "^1.0.1",
+    "@vcvckw/getword": "^1.0.0",
+    "@vcvckw/getsun": "^1.0.0",
+    "@vcvckw/symmet": "^1.0.0",
+    "@vcvckw/createadd": "^1.0.0",
+    "@vcvckw/jsready": "^1.0.0",
+    "@vcvckw/getsoon": "^1.0.0",
+    "@vcvckw/jsmeme": "^1.0.0",
+    "@vcvckw/automatic_js": "^1.0.0",
+    "@vcvckw/urban": "^1.0.0",
+    "@vcvckw/jsgetword": "^1.0.0"
+  }
+}
